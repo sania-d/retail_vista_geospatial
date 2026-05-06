@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+.venv/
+ENV/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Secrets and credentials (CRITICAL)
+.env
+*.json
+!requirements.txt
+!requirements_reasoning.txt
+!agent_engine_config.json
+
+# OS and Editor files
+.DS_Store
+.vscode/
+.idea/
+*.log
+retail_vista_tmp*/

@@ -1,0 +1,34 @@
+# Google AI & Agent Development Kit
+google-adk>=1.28.1
+google-cloud-aiplatform
+google-genai
+vertexai
+ag_ui_adk>=0.6.0
+
+# Google Maps & Geocoding
+googlemaps
+requests
+google-maps-routing
+google-cloud-bigquery
+
+# cloudpickle==3.0.0
+pydantic>=2.6.4
+
+# Utilities & Server
+uvicorn
+fastapi
+
+geopandas
+shapely
+db-dtypes
+
+google-maps-areainsights
+google-maps-places
+h3
+
+# Database
+asyncpg
+cloud-sql-python-connector
+
+google-cloud-modelarmor
+

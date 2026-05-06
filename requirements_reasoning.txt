@@ -1,0 +1,17 @@
+google-adk>=1.28.1
+google-cloud-aiplatform
+google-genai
+vertexai
+ag_ui_adk>=0.6.0
+googlemaps
+requests
+google-maps-routing
+google-cloud-bigquery
+pydantic>=2.6.4
+uvicorn
+fastapi
+db-dtypes
+google-maps-areainsights
+google-maps-places
+h3
+google-cloud-modelarmor
